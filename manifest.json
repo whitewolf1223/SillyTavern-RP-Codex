@@ -1,0 +1,11 @@
+{
+  "display_name": "RP Codex — Реестр персонажей",
+  "loading_order": 20,
+  "requires": [],
+  "optional": [],
+  "js": "index.js",
+  "css": "style.css",
+  "author": "ChatGPT",
+  "version": "0.1.0",
+  "minimum_client_version": "1.12.0"
+}
